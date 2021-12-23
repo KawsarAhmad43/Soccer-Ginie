@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Soccer-Ginie
 Live Soccer score app made with Laravel
 =======
